@@ -11,7 +11,7 @@
   "dependencies": {
     "ansi-align": "^3.0.0",
     "anymatch": "^3.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "braces": "^3.0.2",
     "clone-response": "^1.0.2",
     "debug": "^3.1.0",
